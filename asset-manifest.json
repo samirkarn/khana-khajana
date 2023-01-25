@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/khana-khajana/static/css/main.79791be2.css",
+    "main.js": "/khana-khajana/static/js/main.6c1c3f80.js",
+    "index.html": "/khana-khajana/index.html",
+    "main.79791be2.css.map": "/khana-khajana/static/css/main.79791be2.css.map",
+    "main.6c1c3f80.js.map": "/khana-khajana/static/js/main.6c1c3f80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79791be2.css",
+    "static/js/main.6c1c3f80.js"
+  ]
+}
